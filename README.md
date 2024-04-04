@@ -1,0 +1,2 @@
+# pacemaker-with-aws
+project
